@@ -1,2 +1,4 @@
-# ComposeNavigation
-Navigation with Jetpack Compose
+# Dynamics List Compose
+*Navigation With Jetpack Compose
+*Dynamic List
+*Layout Concepts
